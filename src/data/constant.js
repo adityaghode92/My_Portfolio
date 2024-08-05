@@ -227,7 +227,7 @@ export const experiences = [
     date: "June 2021 - Oct 2021",
     desc: "Learned about Cloud Computing & Microsoft Azure Fundamentals",
     skills: ["Cloud Computing"],
-    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-e552a.appspot.com/o/AzureFundamentals.png?alt=media&token=2a9a8978-4009-47fd-9e41-8215d52cff5e",
+    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-e17f7.appspot.com/o/Azure%20Certificate.png?alt=media&token=bf4b54b2-5e20-4b79-84b6-a16e0d2bd2b0",
   },
   {
     id: 4,
@@ -237,7 +237,7 @@ export const experiences = [
     date: "June 2021 - Oct 2021",
     desc: "Learned about the Fundamentals of Android Development,Developed a robust Android application for weather forecasting using Java and XML in Android Studio",
     skills: ["Android", " Studio", "REST APIs", "Java", "XML"],
-    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-17af5.appspot.com/o/I_BASE.png?alt=media&token=34d61a00-8d4d-44d6-a923-e4e0b6b65dc5",
+    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-e17f7.appspot.com/o/Intership%20Certificate.png?alt=media&token=10d8440a-c489-4eba-88f2-6a9c11c619ef",
   },
 ];
 
